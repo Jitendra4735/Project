@@ -61,8 +61,6 @@ C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\runtimes\win\lib
 C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\WebApi.Infrastructure.dll
-C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\WebApi.Infrastructure.pdb
 C:\Users\dell\Desktop\Azure\Project\WebApi.Api\obj\Debug\net6.0\WebApi.Api.csproj.AssemblyReference.cache
 C:\Users\dell\Desktop\Azure\Project\WebApi.Api\obj\Debug\net6.0\WebApi.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\dell\Desktop\Azure\Project\WebApi.Api\obj\Debug\net6.0\WebApi.Api.AssemblyInfoInputs.cache
@@ -92,8 +90,13 @@ C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\System.CodeDom.d
 C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
-C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\WebApi.Core.dll
-C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\WebApi.Core.pdb
 C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\WebApi.Utilities.dll
 C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\WebApi.Utilities.pdb
 C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\WebApi.Business.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\WebApi.Data.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\WebApi.Business.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\WebApi.Data.pdb
+C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\dell\Desktop\Azure\Project\WebApi.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
