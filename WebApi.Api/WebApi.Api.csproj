@@ -19,8 +19,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WebApi.Core\WebApi.Business.csproj" />
-    <ProjectReference Include="..\WebApi.Infrastructure\WebApi.Data.csproj" />
+    <ProjectReference Include="..\WebApi.Business\WebApi.Business.csproj" />
+    <ProjectReference Include="..\WebApi.Data\WebApi.Data.csproj" />
   </ItemGroup>
 
   <ItemGroup>
