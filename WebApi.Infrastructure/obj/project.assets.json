@@ -3277,9 +3277,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Infrastructure\\WebApi.Infrastructure.csproj",
-      "projectName": "WebApi.Infrastructure",
-      "projectPath": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Infrastructure\\WebApi.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Infrastructure\\WebApi.Data.csproj",
+      "projectName": "WebApi.Data",
+      "projectPath": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Infrastructure\\WebApi.Data.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",

@@ -2,7 +2,11 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using System.Text.Json.Serialization;
 using WebApi.Api.Middleware;
+using WebApi.Business.Business;
+using WebApi.Business.Business.Interface;
+using WebApi.Business.Mapper;
 using WebApi.Core.Business;
 using WebApi.Core.Business.Interface;
 using WebApi.Infrastructure.Models;
@@ -13,10 +17,15 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers();
+builder.Services.AddControllers().AddJsonOptions(options =>
+{
+    options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
+}); ;
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddAutoMapper(typeof(MappingProfile).Assembly);
 
 // Configure the DbContext with SQL Server
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
@@ -47,6 +56,8 @@ builder.Services.AddAuthentication(options =>
 builder.Services.AddScoped<IPasswordHasher<UserInfo>, PasswordHasher<UserInfo>>();
 builder.Services.AddScoped<IUserAccountManager, UserAccountManager>();
 builder.Services.AddScoped<IAuthenticationProcessor, AuthenticationProcessor>();
+builder.Services.AddScoped<ITerminalProcessor, TerminalProcessor>();
+builder.Services.AddScoped<IPortProcessor, PortProcessor>();
 
 var app = builder.Build();
 
