@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fUB7gplYf5JhJlu6ps3Lwm8jQ6YPzFp9nVAwdsEm5HxW7IZQDpnqMwuEAN2/0uDlChPRVaE0iYNWQiKQ2kfltA==",
+  "dgSpecHash": "k6c6BsAFgq/moy1eVCJQ6WlMNJhz1aep43K+oLwzhZzBxq1ghL1/Y9VvpX11LXIn7IOLCFzV4ERN7+OFxQH/eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Core\\WebApi.Business.csproj",
+  "projectFilePath": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Business\\WebApi.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dell\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\dell\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

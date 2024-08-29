@@ -5,9 +5,9 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi.Api", "WebApi.Api.csproj", "{595FFB02-3A5F-4CD3-B233-3699E9DA348C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi.Business", "..\WebApi.Core\WebApi.Business.csproj", "{BDB6778D-2094-4642-93E6-AE11F59CA83F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi.Business", "..\WebApi.Business\WebApi.Business.csproj", "{BDB6778D-2094-4642-93E6-AE11F59CA83F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi.Data", "..\WebApi.Infrastructure\WebApi.Data.csproj", "{92FF2D67-3687-4C51-A376-A928E4250548}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi.Data", "..\WebApi.Data\WebApi.Data.csproj", "{92FF2D67-3687-4C51-A376-A928E4250548}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi.Utilities", "..\WebApi.Utilities\WebApi.Utilities.csproj", "{A75738F7-4780-409F-B375-FAEA9197F003}"
 EndProject

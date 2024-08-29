@@ -3135,11 +3135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Core\\WebApi.Business.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Business\\WebApi.Business.csproj",
       "projectName": "WebApi.Business",
-      "projectPath": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Core\\WebApi.Business.csproj",
+      "projectPath": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Business\\WebApi.Business.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Core\\obj\\",
+      "outputPath": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

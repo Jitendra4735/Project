@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Infrastructure\\WebApi.Data.csproj": {}
+    "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Data\\WebApi.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Infrastructure\\WebApi.Data.csproj": {
+    "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Data\\WebApi.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Infrastructure\\WebApi.Data.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Data\\WebApi.Data.csproj",
         "projectName": "WebApi.Data",
-        "projectPath": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Infrastructure\\WebApi.Data.csproj",
+        "projectPath": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Data\\WebApi.Data.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\dell\\Desktop\\Azure\\Project\\WebApi.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
